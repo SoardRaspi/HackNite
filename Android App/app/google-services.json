@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "600536256144",
+    "firebase_url": "https://aiandro.firebaseio.com",
+    "project_id": "aiandro",
+    "storage_bucket": "aiandro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600536256144:android:d4bdf009e7189179a4d215",
+        "android_client_info": {
+          "package_name": "com.example.aiandro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600536256144-b0at9ch68cbf3hdtsfb0vgudfk6io6oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aiandro",
+            "certificate_hash": "25783b06851c97b5afcd2c84a06c90b9e27bf7ca"
+          }
+        },
+        {
+          "client_id": "600536256144-ls22ffnrud1i8j3vlqqe973u89tropak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4yShtdwARm22fC5JZQNFgNsCaU1d1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600536256144-ls22ffnrud1i8j3vlqqe973u89tropak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600536256144:android:8251dc6bf043faa6a4d215",
+        "android_client_info": {
+          "package_name": "com.example.hacknite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600536256144-ls22ffnrud1i8j3vlqqe973u89tropak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc4yShtdwARm22fC5JZQNFgNsCaU1d1_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600536256144-ls22ffnrud1i8j3vlqqe973u89tropak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
