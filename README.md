@@ -26,3 +26,4 @@ Track: Automation</h2>
   </li>
 </ul>
 <h3>Project Workflow</h3>
+<img alt="flowchart" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot%202023-04-18%20at%2012.04.10%20AM.png">
