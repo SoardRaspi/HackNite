@@ -16,12 +16,12 @@ Track: Automation</h2>
     <br>
     <p>In the app, scraping the website is done in two activities. The first time, it is done in <code><a href="https://github.com/SoardRaspi/HackNite/blob/main/Android%20App/app/src/main/java/com/example/hacknite/SelectionAndHistory.java">SelectionAndHistory.java</a></code> file to get the list of all the related medications. When the list item is clicked, it navigates to the <code>ComparisonActivity</code> activity with the name of the medication.</p>
     <br>
-    <p>The second time, it is done in the <code><a href="https://github.com/SoardRaspi/HackNite/blob/main/Android%20App/app/src/main/java/com/example/hacknite/ComparisonActivity.java">ComparisonActivity.java</a></code> file. In this activty, it scrapes the website for the selected medication and scrapes <a name="for-the"></a> for the:</p>
+    <p>The second time, it is done in the <code><a href="https://github.com/SoardRaspi/HackNite/blob/main/Android%20App/app/src/main/java/com/example/hacknite/ComparisonActivity.java">ComparisonActivity.java</a></code> file. In this activty, it scrapes the website for the selected medication and scrapes #<a name="for-the"></a> for the:</p>
     <ul>
       <li>the image's URL (by searching for the class name).</li>
       <li>the cost (by searching for the class name).</li>
       <li>the related offers (by searching for the class name).</li>
-      <li>the <a name="the-delivery-time"></a> delivery time (by doing a small operation where the pincode entered by the user is used.)</li>
+      <li>the #<a name="the-delivery-time"></a> delivery time (by doing a small operation where the pincode entered by the user is used.)</li>
     </ul>
   </li>
 </ul>
