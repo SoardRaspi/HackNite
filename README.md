@@ -1,5 +1,5 @@
 # HackNite
-<h2<u>Team ScrapBin</u>
+<h2><u>Team ScrapBin</u>
 <br>
 Track: Automation</h2>
 <hr>
