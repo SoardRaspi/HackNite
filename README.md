@@ -27,3 +27,9 @@ Track: Automation</h2>
 </ul>
 <h3>Project Workflow</h3>
 <img alt="flowchart" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot%202023-04-18%20at%2012.04.10%20AM.png">
+<h3>App Flow</h3>
+<ul>
+  <li><img alt="blank list with an input for entering medication" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232419.png"></li>
+  <li><img alt="list having medications related to the searched medication" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232348.png"></li>
+  <li><img alt="activity containing the search result(s)" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232342.png">/li>
+</ul>
