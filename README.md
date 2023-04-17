@@ -31,5 +31,5 @@ Track: Automation</h2>
 <ul>
   <li><img alt="blank list with an input for entering medication" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232419.png"></li>
   <li><img alt="list having medications related to the searched medication" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232348.png"></li>
-  <li><img alt="activity containing the search result(s)" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232342.png">/li>
+  <li><img alt="activity containing the search result(s)" src="https://github.com/SoardRaspi/HackNite/blob/main/Screenshot_20230417-232342.png"></li>
 </ul>
